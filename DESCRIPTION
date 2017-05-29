@@ -1,0 +1,15 @@
+Package: indexScoring
+Type: Package
+Title: Build Predictive Model using Category Index for scoring
+Version: 0.1.0
+Author: Nung Lian Sum
+Maintainer: Nung Lian Sum <nungliansum@gmail.com>
+Description: Build predictive model using Category Index for Scoring.
+    This package use Chi-square criteria as a measure of fit for modelling 
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
